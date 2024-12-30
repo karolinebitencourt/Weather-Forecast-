@@ -44,7 +44,6 @@ estilo.theme_use('clam')
 
 def converter_para_celsius(temp):
     celsius=temp - 273
-    print(celsius)
     return int(celsius)
 
 
