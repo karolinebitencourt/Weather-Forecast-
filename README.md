@@ -3,7 +3,7 @@
 
 >> <h3> Resume </h3>
 
-<p> This is a program that starts a software called "Clima Onde Você Quiser", which is feasible to consult the weather up to your choice and other information. This software was designed in Python adapted by me, and the original work is from João Futi Muanda and you're able to check all in this link: https://www.youtube.com/watch?v=s0aYriECtYQ﻿ ](https://www.youtube.com/watch?v=2MV2sPAJ94E&list=PLGFzROSPU9oUzZ-qhotadjMMX8pX85gOv</p>
+<p> This is a program that starts a software called "Clima Onde Você Quiser", which is feasible to consult the weather up to your choice and other information. This software was designed in Python adapted by me, and the original work is from João Futi Muanda and you're able to check all in this link: https://www.youtube.com/watch?v=2MV2sPAJ94E&list=PLGFzROSPU9oUzZ-qhotadjMMX8pX85gOv&index=1 </p>
 
 >> <h3> Improvements </h3>
 
